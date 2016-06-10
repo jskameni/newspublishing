@@ -4,7 +4,7 @@
 
 ### Installation ###
 
-* `git clone https://github.com/bestmomo/laravel5-example.git projectname`
+* `git clone https://github.com/jskameni/newspublishing.git projectname`
 * `cd projectname`
 * `composer install`
 
