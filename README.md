@@ -8,7 +8,7 @@
 * `cd projectname`
 * `composer install`
 
-* Create a database and inform *.env*  You have to deploy news_publishing_portail.sql
+* Create a database and inform *.env*.  You have to deploy news_publishing_portail.sql
 * Inform *config/mail.php* for email sends
   Open : mail\config.php and change : driver, host, port, from, encryption, username, password for your mailing address.
 	   These elements are set as follow in the project (concerning my mailing configuration)
@@ -28,8 +28,6 @@
 -	Eloquent
 -	vsmoraes/pdf-laravel5
 -	RoumenDamianoff/laravel-feed
--	phpmailer given the time
-
 
 ### Features ###
 
@@ -53,4 +51,3 @@
 To test application the database has  the users :
 
 * User : email = jskameni1@gmail.com, password = eeeeeeee
-* User : email = jskameni@gmail.com, password = eeeeeeee
